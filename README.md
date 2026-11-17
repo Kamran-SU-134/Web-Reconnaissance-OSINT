@@ -151,9 +151,9 @@ This project is intended for educational purposes and authorized security testin
 
 Cybersecurity Student | Aspiring SOC Analyst | Blue Team & Security Research Enthusiast
 
-**GitHub:** Add your GitHub profile link here.
+**GitHub:**https://github.com/Kamran-SU-134
 
-**LinkedIn:** Add your LinkedIn profile link here.
+**LinkedIn:** https://www.linkedin.com/in/kamran-khan-325590371/
 
 ---
 
